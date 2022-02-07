@@ -6,6 +6,4 @@
 
 ## Examples
 
-![Im1](/Images/im1.PNG)
-
 ![Im2](/Images/im2.PNG)
